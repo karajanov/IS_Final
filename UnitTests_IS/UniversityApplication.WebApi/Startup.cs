@@ -10,7 +10,7 @@ using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
-
+using Microsoft.OpenApi.Models;
 using UniversityApplication.WebApi.Infrastructure;
 
 namespace BankApplication.WebApi
@@ -57,6 +57,16 @@ namespace BankApplication.WebApi
             services
                 .AddScoped<IClientsRepository, ClientService>()
                 .AddScoped<IAccountsRepository, AccountsService>();
+
+            services.AddSwaggerGen(c =>
+            {
+                c.SwaggerDoc("v1", new OpenApiInfo
+                {
+                    Title = "BankApp API",
+                    Version = "v1",
+                    Description = "Internet Services Exam"
+                });
+            });
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
@@ -81,6 +91,12 @@ namespace BankApplication.WebApi
             app.UseRouting();
 
             app.UseAuthorization();
+
+            app.UseSwagger();
+            app.UseSwaggerUI(c =>
+            {
+                c.SwaggerEndpoint("/swagger/v1/swagger.json", "BankApp API v1");
+            });
 
             app.UseEndpoints(endpoints =>
             {

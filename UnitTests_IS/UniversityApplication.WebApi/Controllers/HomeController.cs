@@ -21,10 +21,8 @@ namespace BankApplication.WebApi.Controllers
             _dbContext = dbContext;
         }
 
-        public async Task<IActionResult> Index()
+        public IActionResult Index()
         {
-          
-
             return View();
         }
 

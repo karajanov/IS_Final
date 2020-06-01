@@ -559,8 +559,6 @@ C:\Users\Borjan\Desktop\IS_Final\UnitTests_IS\UniversityApplication.WebApi\bin\D
 C:\Users\Borjan\Desktop\IS_Final\UnitTests_IS\UniversityApplication.WebApi\obj\Debug\netcoreapp3.1\BankApplication.WebApi.csprojAssemblyReference.cache
 C:\Users\Borjan\Desktop\IS_Final\UnitTests_IS\UniversityApplication.WebApi\obj\Debug\netcoreapp3.1\BankApplication.WebApi.AssemblyInfoInputs.cache
 C:\Users\Borjan\Desktop\IS_Final\UnitTests_IS\UniversityApplication.WebApi\obj\Debug\netcoreapp3.1\BankApplication.WebApi.AssemblyInfo.cs
-C:\Users\Borjan\Desktop\IS_Final\UnitTests_IS\UniversityApplication.WebApi\obj\Debug\netcoreapp3.1\BankApplication.WebApi.csproj.CoreCompileInputs.cache
-C:\Users\Borjan\Desktop\IS_Final\UnitTests_IS\UniversityApplication.WebApi\obj\Debug\netcoreapp3.1\BankApplication.WebApi.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\Borjan\Desktop\IS_Final\UnitTests_IS\UniversityApplication.WebApi\obj\Debug\netcoreapp3.1\BankApplication.WebApi.RazorAssemblyInfo.cache
 C:\Users\Borjan\Desktop\IS_Final\UnitTests_IS\UniversityApplication.WebApi\obj\Debug\netcoreapp3.1\BankApplication.WebApi.RazorAssemblyInfo.cs
 C:\Users\Borjan\Desktop\IS_Final\UnitTests_IS\UniversityApplication.WebApi\obj\Debug\netcoreapp3.1\BankApplication.WebApi.TagHelpers.input.cache
@@ -582,3 +580,10 @@ C:\Users\Borjan\Desktop\IS_Final\UnitTests_IS\UniversityApplication.WebApi\obj\D
 C:\Users\Borjan\Desktop\IS_Final\UnitTests_IS\UniversityApplication.WebApi\obj\Debug\netcoreapp3.1\BankApplication.WebApi.dll
 C:\Users\Borjan\Desktop\IS_Final\UnitTests_IS\UniversityApplication.WebApi\obj\Debug\netcoreapp3.1\BankApplication.WebApi.pdb
 C:\Users\Borjan\Desktop\IS_Final\UnitTests_IS\UniversityApplication.WebApi\obj\Debug\netcoreapp3.1\BankApplication.WebApi.genruntimeconfig.cache
+C:\Users\Borjan\Desktop\IS_Final\UnitTests_IS\UniversityApplication.WebApi\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\Borjan\Desktop\IS_Final\UnitTests_IS\UniversityApplication.WebApi\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Borjan\Desktop\IS_Final\UnitTests_IS\UniversityApplication.WebApi\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Borjan\Desktop\IS_Final\UnitTests_IS\UniversityApplication.WebApi\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Borjan\Desktop\IS_Final\UnitTests_IS\UniversityApplication.WebApi\obj\Debug\netcoreapp3.1\BankApplication.WebApi.csproj.CoreCompileInputs.cache
+C:\Users\Borjan\Desktop\IS_Final\UnitTests_IS\UniversityApplication.WebApi\obj\Debug\netcoreapp3.1\BankApplication.WebApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Borjan\Desktop\IS_Final\UnitTests_IS\UniversityApplication.WebApi\obj\Debug\netcoreapp3.1\BankApplication.WebApi.MvcApplicationPartsAssemblyInfo.cache

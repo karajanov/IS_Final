@@ -157,10 +157,10 @@ namespace BankApplicationTests.Services
             //Actual
 
             //Assert
-            var expection = Assert.Throws<Exception>
+            var exception = Assert.Throws<Exception>
                 (() => clientsRepository.PutClient(clientDto.Id, clientDto));
 
-            Assert.Equal("Client not found", expection.Message);
+            Assert.Equal("Client not found", exception.Message);
         }
 
         [Fact]
