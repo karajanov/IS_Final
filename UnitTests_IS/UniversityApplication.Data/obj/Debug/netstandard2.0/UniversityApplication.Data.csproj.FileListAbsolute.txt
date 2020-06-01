@@ -1,0 +1,9 @@
+D:\vs2019\InternetServices\UniversityApplication.Data\bin\Debug\netstandard2.0\UniversityApplication.Data.deps.json
+D:\vs2019\InternetServices\UniversityApplication.Data\bin\Debug\netstandard2.0\UniversityApplication.Data.dll
+D:\vs2019\InternetServices\UniversityApplication.Data\obj\Debug\netstandard2.0\UniversityApplication.Data.AssemblyInfoInputs.cache
+D:\vs2019\InternetServices\UniversityApplication.Data\obj\Debug\netstandard2.0\UniversityApplication.Data.AssemblyInfo.cs
+D:\vs2019\InternetServices\UniversityApplication.Data\bin\Debug\netstandard2.0\UniversityApplication.Data.pdb
+D:\vs2019\InternetServices\UniversityApplication.Data\obj\Debug\netstandard2.0\UniversityApplication.Data.csprojAssemblyReference.cache
+D:\vs2019\InternetServices\UniversityApplication.Data\obj\Debug\netstandard2.0\UniversityApplication.Data.dll
+D:\vs2019\InternetServices\UniversityApplication.Data\obj\Debug\netstandard2.0\UniversityApplication.Data.pdb
+D:\vs2019\InternetServices\UniversityApplication.Data\obj\Debug\netstandard2.0\UniversityApplication.Data.csproj.CoreCompileInputs.cache
